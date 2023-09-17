@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **Html, Css, JavaScript, TypeScript, React Js**
 
-- 📫 Como contactarme **leodevelopercontact@gmail.com**
+- 📫 Como contactarme **hola@leocreations.es**
 
 - ⚡ Puntos Fuertes **Me considero una persona colaborativa y abierta**
 
