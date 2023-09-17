@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Leo Fernández</h1>
 <h3 align="center">Soy un desarrollador FullStack, especializado en backend</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [leocreations.es/portfolio](leocreations.es/portfolio)
+- 👨‍💻 Todos mis proyectos están disponibles en <a href="leocreations.es/portfolio" target="_blank">leocreations.es/portfolio</a>
 
-- 📝 Regularmente escribo articulos en [leocreations.es/blog](leocreations.es/blog)
+- 📝 Regularmente escribo articulos en <a href="leocreations.es/blog">leocreations.es/blog</a>
 
 - 💬 Preguntame sobre **Html, Css, JavaScript, TypeScript, React Js**
 
